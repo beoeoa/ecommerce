@@ -1,0 +1,50 @@
+body {
+  padding-top: 50px;
+}
+
+#headerWrapper {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 800px;
+  background-image: url(../images/logos/for_sale.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+h1  {
+    text-align: center;
+    font:
+      size: 72px;
+      weight: 700;
+    color: red;
+    text-transform: uppercase;
+    clear: both;
+    letter-spacing: 0.05em;
+    margin-bottom: 20px;
+    padding-top: 100px;
+}
+
+#logotitle {
+  display: inline-block;
+  margin-top: 20%;
+  padding: 0.2em 0.5em;
+  border: red solid 10px;
+}
+
+.img-thumb {
+  width: auto;
+  height: 200px;
+}
+
+#footer{
+   margin-top: 50px;
+}
+
+img.details{
+  width: 33%;
+  margin: 15px auto;
+}
